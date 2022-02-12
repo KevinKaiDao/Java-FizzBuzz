@@ -1,6 +1,6 @@
 # Java-FizzBuzz
 
-My first Github push!
+My first GitHub push!
 
 27-10-21
 The FizzBuzz game created in Java by Kevin Dao.
